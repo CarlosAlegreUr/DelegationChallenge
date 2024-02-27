@@ -1,0 +1,12 @@
+{
+  "sepolia": {
+    "collectionAddress": {
+      "collectionAddress": "0x92375AaaaE9AF691c88d58B9470c3a5C9fca523c"
+    }
+  },
+  "anvil": {
+    "collectionAddress": {
+      "collectionAddress": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+    }
+  }
+}
