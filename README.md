@@ -1,5 +1,4 @@
 # DELEGATION OF ASSETS SOLUTION ⚙️
-##### OpenFort Challenge 💥
 
 ---
 
