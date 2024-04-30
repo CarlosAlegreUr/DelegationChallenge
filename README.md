@@ -4,7 +4,6 @@
 
 ## Index 📚
 - [DELEGATION OF ASSETS SOLUTION ⚙️](#delegation-of-assets-solution-️)
-        - [OpenFort Challenge 💥](#openfort-challenge-)
   - [Index 📚](#index-)
   - [Introduction 📝](#introduction-)
     - [Initial Observations About Usecases 👀](#initial-observations-about-usecases-)
